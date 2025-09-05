@@ -20,8 +20,6 @@ Pandas_Matplotlib_Analysis/
 ├── analyze_data.py # Main Python script (assignment solution)
 ├── requirements.txt # Dependencies
 └── README.md # Documentation
-yaml
-Copy code
 
 ---
 
@@ -40,14 +38,10 @@ pip install -r requirements.txt
 ▶️ How to Run
 Clone this repository:
 
-bash
-Copy code
 git clone https://github.com/YOUR-USERNAME/Pandas_Matplotlib_Analysis.git
 cd Pandas_Matplotlib_Analysis
 Run the script:
 
-bash
-Copy code
 python analyze_data.py
 The script will:
 
